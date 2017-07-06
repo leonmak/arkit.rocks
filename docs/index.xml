@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARKit showcase</title>
+    <link>http://arkit.rocks/</link>
+    <description>Recent content on ARKit showcase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2017 08:38:33 +0800</lastBuildDate>
+    
+	<atom:link href="http://arkit.rocks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Games</title>
+      <link>http://arkit.rocks/games/</link>
+      <pubDate>Wed, 05 Jul 2017 08:38:33 +0800</pubDate>
+      
+      <guid>http://arkit.rocks/games/</guid>
+      <description>{{&amp;lt; photo full=&amp;ldquo;http://placehold.it/1024x683/B4A99E/ffffff?text=Full+Image&amp;quot; thumb=&amp;ldquo;http://placehold.it/360x247/B4A99E/ffffff?text=Thumbnail&amp;quot; alt=&amp;ldquo;&amp;rdquo; phototitle=&amp;ldquo;Sed ac elementum arcu&amp;rdquo; description=&amp;ldquo;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&amp;rdquo;&amp;gt;}}
+{{&amp;lt; photo full=&amp;ldquo;http://placehold.it/1024x683/7D5F50/ffffff?text=Full+Image&amp;quot; thumb=&amp;ldquo;http://placehold.it/360x247/7D5F50/ffffff?text=Thumbnail&amp;quot; alt=&amp;ldquo;&amp;rdquo; phototitle=&amp;ldquo;Vehicula id nulla dignissim&amp;rdquo; description=&amp;ldquo;Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.&amp;rdquo;&amp;gt;}}</description>
+    </item>
+    
+  </channel>
+</rss>

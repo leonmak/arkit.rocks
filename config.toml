@@ -1,0 +1,5 @@
+baseURL = "http://arkit.rocks/"
+languageCode = "en-us"
+title = "ARKit showcase"
+theme = "hugo_theme_robust"
+publishDir = "docs"
