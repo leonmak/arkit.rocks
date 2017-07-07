@@ -1,0 +1,148 @@
+[
+ {
+    "title": "A robot dancing in my Living Room (ARKit/Unity demo)",
+    "tags": [
+      "youtube",
+      "dance",
+      "unity"
+    ],
+    "href": "/A-robot-dancing-in-my-Living-Room",
+    "content": " Developer Toms Garca Twitter twittercomtomasgarciatwittercomtomasgarcia Youtube Toms GarcahttpswwwyoutubecomchannelUColsEN2qxEYSIYkAo2X02UA See more dancerealityappcomdancerealityappcom"
+  },
+  {
+    "title": "AR Measure App Demo - Augmented reality tape measure",
+    "tags": [
+      "youtube",
+      "measure",
+      "utilities"
+    ],
+    "href": "/AR-Measure-App-Demo-Augmented-reality-tape-measure",
+    "content": " More info at httpARMeasurecomhttpARMeasurecom Contact us at httplabslaancomhttplabslaancom"
+  },
+  {
+    "title": "ARKit: Augmented Reality Food Nutritional Value",
+    "tags": [
+      "youtube",
+      "food",
+      "image recognition"
+    ],
+    "href": "/ARKit-Augmented-Reality-Food-Nutritional-Value",
+    "content": " The fourth demo of my ARKit dataviz toolapi adding some image recognition for displaying nutritional value of food The app contains a small database of common fruits and their nutritional value After recognizing something it generates the visual based on the database you can see the frame drops both when it is recognizing the banana and when it is generating the visual Follow me at httptwittercomrogerstrummerhttptwittercomrogerstrummer httprogerstrummergithubiohttprogerstrummergithubio"
+  },
+  {
+    "title": "ARKit - Augmented Reality für Bauprojekte AR 2017",
+    "tags": [
+      "youtube",
+      "outdoors",
+      "architecture"
+    ],
+    "href": "/ARKit-Augmented-Reality-für-Bauprojekte-AR-2017",
+    "content": " Uploaded by econsor mobile GmbHhttpswwwyoutubecomchannelUC1Y3erU9Dmr4iIDUnDcVyA"
+  },
+  {
+    "title": "ARKit Dance Practice in Augmented Reality",
+    "tags": [
+      "youtube",
+      "dance"
+    ],
+    "href": "/ARKit-Dance-Practice-in-Augmented-Reality.mdown",
+    "content": " See more dancerealityappcomdancerealityappcom"
+  },
+  {
+    "title": "ARKit Tutorial: Simple Augmented Reality Game",
+    "tags": [
+      "youtube",
+      "game"
+    ],
+    "href": "/ARKit-Tutorial-Simple-Augmented-Reality-Game",
+    "content": " This tutorial is all about Augmented Reality Learn the basics of the ARKit framework how to add AR capabilities to your app httpwwwswifttutorialconferencenethttpwwwswifttutorialconferencenet Ship Model httpstinyurlcomy8zxvh7ehttpstinyurlcomy8zxvh7e Tutorial Files httpsgithubcombrianadventSimplehttpsgithubcombrianadventSimpleARKitGame"
+  },
+  {
+    "title": "ARKit meets SketchUp Part III",
+    "tags": [
+      "youtube",
+      "sketchup",
+      "architecture"
+    ],
+    "href": "/ARKit-meets-SketchUp.mdown",
+    "content": " Uploaded by Ashley JoycehttpswwwyoutubecomchannelUCPyu9Fr3hN1TgeiuQnMxGw"
+  },
+  {
+    "title": "ARkit will change how we order food",
+    "tags": [
+      "youtube",
+      "food",
+      "utilities"
+    ],
+    "href": "/ARkit-will-change-how-we-order-food",
+    "content": " Uploaded by Alper GulerhttpswwwyoutubecomchannelUCDKUeAn9Uevc8AZiTniSqRg"
+  },
+  {
+    "title": "Apple ARKit Tutorial: How to Build Tilt Brush Paint Demo in Unity",
+    "tags": [
+      "youtube",
+      "painting",
+      "code"
+    ],
+    "href": "/Apple-ARKit-Tutorial-How-to-Build-Tilt-Brush-Paint",
+    "content": " Our quest to spread AR development continues no prior experience required Lets dive into using Apples ARKit to build a TiltBrush protoype in Unity You can select random paint colors and paint in the real world using just an iPhone Github Repo httpsgithubcomFusedVRARKitTiltBhttpsgithubcomFusedVRARKitTiltBrush ARKit on Unity httpsforumunity3dcomthreadsarkhttpsforumunity3dcomthreadsarkitsupportforiosviaunityarkitplugin474385 WWDC Talk on ARKit httpswwwyoutubecomwatchvijsXzhttpswwwyoutubecomwatchvijsXzvif4vs Welcome to the weekly FusedVR Tutorials These videosstreams are a chance not only for anyone to learn more about ARVR development but also a chance for anyone to ask questions about LITERALLY anything Whether it be about your own ARVR development your future projects or just ARVR in general we would love to talk with you about it Suggestions for future streams Post Here httpfusedvrcomhttpfusedvrcom If you missed last weeks stream here is a link to the video where we go over how to build the VATS mechanic from Fallout httpswwwyoutubecomwatchv85mQhttpswwwyoutubecomwatchv85mQyOh7Uo Interested in keeping up to date with the live streams Follow us on social media or subscribe to the channel httpswwwfacebookcomFusedVRhttpswwwfacebookcomFusedVR httpstwittercomFusedVRhttpstwittercomFusedVR httpswwwinstagramcomfusedvrhttpswwwinstagramcomfusedvr httpsmediumcomfusedvrhttpsmediumcomfusedvr httpbitly1SZXwtnhttpbitly1SZXwtn"
+  },
+  {
+    "title": "Apple ArKit Augmented Reality MINECRAFT",
+    "tags": [
+      "youtube",
+      "minecraft",
+      "code"
+    ],
+    "href": "/Apple-ArKit-Augmented-Reality-MINECRAFT",
+    "content": " Apple ARkit Tutorial Coming Soon This is a little demo video of an augmented reality AR Minecraft app that I have been working on using the Apple ARkit for iPhone and Unity 3D I love that you are able to place life size objects because the tracking with ARkit is so good Let me know in the comments if you want to see a how to video or tutorial and I will try to make that happen I probably wont be able to do the whole thing but let me know what parts of this you would like to do GitHub Project can be found in our discord group httpsdiscordggJTXEXtshttpsdiscordggJTXEXts The SLAM tracking that Apple offers is incredible and I cannot stop playing with it I hate doing things that are not cross platform compatible but this Apple AR is way too good to ignore To build this I used Xcode 9 beta IOS 11 and the newest patch version of Unity 561p1 You also need an apple device with an A9 or A10 chip These include iPhone SE iPhone 6s iPhone 6s Plus iPhone 7 iPhone 7 Plus iPad Pro 97inch iPad 2017 IOS 11 httpwwwredmondpiecomios11betahttpwwwredmondpiecomios11betadownloadfeaturesreleasedateupdate Xcode 9 httpsdeveloperapplecomxcodehttpsdeveloperapplecomxcode Unity newest patch version httpbetaunity3dcomdownload74c1httpbetaunity3dcomdownload74c1f4917542UnityDownloadAssistant561p1dmg Unity ArKit Plugin httpsocunity3dcomindexphps3hhttpsocunity3dcomindexphps3hfM9T05P9vOpCf Music BITWVLF Remember Me httpswwwyoutubecomchannelUCethttpswwwyoutubecomchannelUCetrnpkaqRH5kS3Sw66TXg Follow me on Facebook httpswwwfacebookcommatthewchallhttpswwwfacebookcommatthewchallberg Instagram httpswwwinstagramcommatthewhallhttpswwwinstagramcommatthewhallberg"
+  },
+  {
+    "title": "Augmented Reality Tutorial: APPLE ARkit is AMAZING!!!",
+    "tags": [
+      "youtube",
+      "zombie",
+      "code"
+    ],
+    "href": "/Augmented-Reality-Tutorial-APPLE-ARkit-is-AMAZING",
+    "content": " This augmented reality tutorial is a first look at the Apple ARkit We will use Unity 3D and the Apple AR kit unity package to create a zombie AR app The SLAM tracking that Apple offers is incredible and I could not help but do this video I hate doing things that are not cross platform compatible but this Apple AR is way too good to ignore To follow along you will need Xcode 9 beta IOS 11 and the newest patch version of Unity 561p1 JOIN OUR DISCORD GROUP httpsdiscordggJTXEXtshttpsdiscordggJTXEXts I forgot to mention in the video you will also need an apple device with an A9 or A10 chip These include iPhone SE iPhone 6s iPhone 6s Plus iPhone 7 iPhone 7 Plus iPad Pro 97inch iPad 2017 All code from this video and text instructions can be found here httpswwwinstructablescomidApplhttpswwwinstructablescomidAppleArKitAugmentedRealityApp IOS 11 httpwwwredmondpiecomios11betahttpwwwredmondpiecomios11betadownloadfeaturesreleasedateupdate Xcode 9 httpsdeveloperapplecomxcodehttpsdeveloperapplecomxcode Unity newest patch version httpbetaunity3dcomdownload74c1httpbetaunity3dcomdownload74c1f4917542UnityDownloadAssistant561p1dmg Unity ArKit Plugin httpsocunity3dcomindexphps3hhttpsocunity3dcomindexphps3hfM9T05P9vOpCf Music BITWVLF Bound Blade Sidewalks and Skeletons Remix httpswwwyoutubecomchannelUCethttpswwwyoutubecomchannelUCetrnpkaqRH5kS3Sw66TXg Follow me on Facebook httpswwwfacebookcommatthewchallhttpswwwfacebookcommatthewchallberg Instagram httpswwwinstagramcommatthewhallhttpswwwinstagramcommatthewhallberg"
+  },
+  {
+    "title": "Drawing in 3d with ARKit",
+    "tags": [
+      "youtube",
+      "painting"
+    ],
+    "href": "/Drawing-in-3d-with-ARKit",
+    "content": " Quick prototype of tiltbrush style drawing in 3d using ARKit Uploaded by laanlabshttpswwwyoutubecomchannelUC8IfOewTY6eCQV5qxxMYng"
+  },
+  {
+    "title": "Improving ARKit: 3D People Tracking & Interaction",
+    "tags": [
+      "youtube",
+      "people",
+      "tracking"
+    ],
+    "href": "/Improving-ARKit-3D-People-Tracking-Interaction",
+    "content": " Uploaded by ReSighthttpswwwyoutubecomchannelUC7dHA1hal9vhw6bv7M2unw"
+  },
+  {
+    "title": "Parking a car on iPhone, with iOS 11 AR Kit",
+    "tags": [
+      "youtube",
+      "collision",
+      "car"
+    ],
+    "href": "/Parking-a-car-on-iPhone-with-iOS-11-AR-Kit",
+    "content": " Just an early experiment with iOS 11 Ar Kit Car Model and sounds from MUD Mobile Rally free on Google Play httpsplaygooglecomstoreappsdehttpsplaygooglecomstoreappsdetailsidcomVinceproject and iOS httpsitunesapplecomitappmudhttpsitunesapplecomitappmudrallyid1193863598mt8 Uploaded by Vincenzo ChttpswwwyoutubecomchannelUCfQtIJOAzZ9uc6RmWb4M8QQ"
+  },
+  {
+    "title": "Puzzle Made With ARKit Statue of Liberty",
+    "tags": [
+      "youtube",
+      "puzzle"
+    ],
+    "href": "/Puzzle-Made-With-ARKit-Statue-of-Liberty",
+    "content": " Uploaded by Bica StudioshttpswwwyoutubecomchannelUCbqWsHxIsIfLqPQ8skoWvmQ"
+  }
+]
