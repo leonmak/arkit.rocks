@@ -144,13 +144,13 @@
   </url>
   
   <url>
-    <loc>http://arkit.rocks/tags/game/</loc>
+    <loc>http://arkit.rocks/categories/game/</loc>
     <lastmod>2016-09-28T17:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arkit.rocks/categories/game/</loc>
+    <loc>http://arkit.rocks/tags/game/</loc>
     <lastmod>2016-09-28T17:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
