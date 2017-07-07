@@ -1,5 +1,24 @@
 baseURL = "http://arkit.rocks/"
 languageCode = "en-us"
-title = "ARKit showcase"
+title = "A R K I T . R O C K S"
 theme = "hugo_theme_robust"
+
+# publish to docs folder to use on github pages
 publishDir = "docs"
+
+googleAnalytics = "UA-102137383-1"
+disqusShortname = "arkit-rocks"
+
+[params]
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  # logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+[taxonomies]
+tag = "tags"
+category = "categories"

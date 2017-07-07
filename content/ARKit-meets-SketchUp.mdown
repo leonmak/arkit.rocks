@@ -1,0 +1,11 @@
++++
+date = "2017-07-06T17:00:00+09:00"
+title = "ARKit meets SketchUp Part III"
+thumbnail = "images/Sketchup-ar.jpg" 
+tags = [ "youtube", "sketchup", "architecture" ]
+categories = [ "demo" ]
++++
+
+{{< youtube bgk-mVuwTYU >}}
+
+Uploaded by [Ashley Joyce](https://www.youtube.com/channel/UCPyu9Fr3hN1TgeiuQnM-xGw)
