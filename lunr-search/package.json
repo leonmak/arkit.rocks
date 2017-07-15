@@ -1,0 +1,27 @@
+{
+  "name": "arkitrocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonmak/arkit.rocks.git"
+  },
+  "author": "Leon Mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonmak/arkit.rocks/issues"
+  },
+  "homepage": "https://github.com/leonmak/arkit.rocks#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "string": "^3.3.3",
+    "toml": "^2.3.2"
+  }
+}
